@@ -1,5 +1,5 @@
 # Summary
 
 * [Quick Start](README.md)
-* [Photographer App Example](chapter1.md)
+* [Photographer Portfolio App Example](chapter1.md)
 
