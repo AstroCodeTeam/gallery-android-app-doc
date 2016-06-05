@@ -1,6 +1,6 @@
 # Summary
 
 * [Introduction](introduction.md)
-* [Quick Start](README.md)
+* [Quick Start](quick-start.md)
 * [Photographer Portfolio App Example](portfolio-app-example.md)
 
