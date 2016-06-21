@@ -1,7 +1,6 @@
 # Summary
 
 * [Introduction](README.md)
-* [Add module to project](add_module_to_project.md)
 * [Quick Start](quick-start.md)
    * [Add module to project](add_module_to_project_2.md)
        * [Android studio](android_studio_2.md)
