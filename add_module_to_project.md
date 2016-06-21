@@ -16,3 +16,6 @@ After adding a module to the project you must include him to the dependency of t
 
 2)Choose your app and in the tab dependencies click add as module:
 ![](import_module_4.jpg)
+
+3)In the list choose necessary module:
+![](import_module_5.jpg)
