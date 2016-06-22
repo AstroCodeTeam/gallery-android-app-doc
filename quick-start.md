@@ -1,3 +1,4 @@
 # Quick Start
 
-Step-by-step guide to compile and run application
+[1. Add module to project;](./add_module_to_project.md)
+
