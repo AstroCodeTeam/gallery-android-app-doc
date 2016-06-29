@@ -7,7 +7,8 @@
 2. [Initialization gallery programmatically](./initialization_gallery_programmatically.md);
 
 
-### Launch Gallerys
+### Launch Gallery's
+
 
 
 
