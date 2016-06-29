@@ -12,7 +12,10 @@
 Create intent and put gallery object in extras:
 ```
 ...
+Intent intent = new Intent(this, ActivityGallery.class);
+intent.putExtra(AGGallery.ALBUMS_BY_CATEGORY, mGallery);
 
+startActivity(intent);
 ...
 ```
 
