@@ -17,3 +17,9 @@ AGGallery.init(this,"assets://gallery_config.xml", new AGGallery.AGGalleryInitLi
 });
 ...
 ```
+Sync gallery initialization:
+```
+...
+AGGallery mGallery = AGGallery.init(this,"assets://gallery_config.xml");
+...
+```
