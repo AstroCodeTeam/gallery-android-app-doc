@@ -6,6 +6,3 @@
        * [Android studio](android_studio.md)
 * [Photographer Portfolio App Example](portfolio-app-example.md)
 * [Gallery Library](gallery-library.md)
-
-
-[QS-Sub-title](quick-start#quick-start)
