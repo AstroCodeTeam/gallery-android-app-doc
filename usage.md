@@ -9,6 +9,13 @@
 
 ### Launch Gallery's
 
+Create intent and put gallery object in extras:
+```
+...
+
+...
+```
+
 
 
 
