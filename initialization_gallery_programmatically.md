@@ -1,6 +1,6 @@
 # Initialization gallery programmatically
 
-Create object represents gallery and add some albums:
+Create object that represents gallery and add some albums:
 ```
 ...
 AGGallery mGallery = new AGGallery(this);
