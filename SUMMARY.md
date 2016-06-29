@@ -8,4 +8,4 @@
 * [Gallery Library](gallery-library.md)
 
 
-[QS-Sub-title](#sub-title)
+[QS-Sub-title](quick-start.md#sub-title)
