@@ -8,4 +8,4 @@
 * [Gallery Library](gallery-library.md)
 
 
-[AS](./add_module_to_project.md#AS)
+[AS](add_module_to_project.md#AS)
