@@ -1,3 +1,3 @@
 # Usage
 
-[Initialization gallery from file](./initialization_gallery_from_file.md);
+1. [Initialization gallery from file](./initialization_gallery_from_file.md);
