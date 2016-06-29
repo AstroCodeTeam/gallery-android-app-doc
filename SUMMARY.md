@@ -6,6 +6,7 @@
        * [Android studio](android_studio.md)
    * [Usage](usage.md)
        * [Initialization gallery from file](initialization_gallery_from_file.md)
+       * Initialization gallery programmatically
 * [Photographer Portfolio App Example](portfolio-app-example.md)
 * [Gallery Library](gallery-library.md)
 
