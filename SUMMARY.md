@@ -11,5 +11,5 @@
 * [Gallery Library](gallery-library.md)
 * [Backend](backend.md)
    * [Yii2 backend](yii2_backend.md)
-   * WordPress backend
+   * [WordPress backend](wordpress_backend.md)
 
